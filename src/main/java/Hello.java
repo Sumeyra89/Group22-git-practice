@@ -1,8 +1,6 @@
 public class Hello {
     public static void main(String[] args) {
-        System.out.println("Hello World group23");
-        System.out.println("group22 future ");
-        //watching more movie
-        //ready to go
+        System.out.println("Hello World");
+        System.out.println("group22 future sdet");
     }
 }
